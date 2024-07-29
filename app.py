@@ -1,10 +1,10 @@
 import pickle
 
 # Loading the trained model and LabelEncoder
-with open('main/clf_model.pkl', 'rb') as file:
+with open('models/clf_model.pkl', 'rb') as file:
     clf = pickle.load(file)
 
-with open('main/label_encoder.pkl', 'rb') as file:
+with open('models/label_encoder.pkl', 'rb') as file:
     le = pickle.load(file)
 
 # Defining functions for making predictions
