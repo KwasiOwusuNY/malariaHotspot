@@ -1,2 +1,2 @@
 # malariaHotspot
-Click here to view application
+Click [here](https://malariahotspot-dwmkjjjpaoxdxblrar4znl.streamlit.app/) to view application
